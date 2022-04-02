@@ -4,7 +4,7 @@
       <div class="w-full relative flex justify-between sm:w-auto  px-4 sm:static sm:block sm:justify-start">
         
         <a class="inline-block">
-        <img src="img/logo.png" alt="logo" class="h-8 md:h-12">
+        <img src="public/img/logo.png" alt="logo" class="h-8 md:h-12">
         </a>
         <a class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-gray-800" href="#pablo">
           PT Kreasi Kemasan 
