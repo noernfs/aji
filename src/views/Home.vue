@@ -5,6 +5,7 @@
   import Arty from '../components/home/Arty.vue'
   import Banner from '../components/home/Banner.vue'
   import Form from '../components/home/Form.vue'
+  import image from '/img/logo.png'
 </script>
 
 <template>
